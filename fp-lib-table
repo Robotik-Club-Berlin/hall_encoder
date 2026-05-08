@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ECS-080-18-23G-JGN-TR")(type "KiCad")(uri "/Users/tobiasreich/Documents/KiCad/9.0/footprints/ECS-080-18-23G-JGN-TR.pretty")(options "")(descr "ECS-080-18-23G-JGN-TR 8MHz Crystal"))
+)

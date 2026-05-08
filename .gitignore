@@ -1,0 +1,17 @@
+.DS_store
+
+# KiCad auto-generated
+fp-info-cache
+*-backups/
+*.lck
+
+# Build artifacts
+*.zip
+*.gbr
+*.drl
+*.gbl
+*.gtl
+*.gbs
+*.gts
+*.gbo
+*.gto
